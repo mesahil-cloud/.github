@@ -1,0 +1,8 @@
+{
+    "name": "Sahil Workflow",
+    "description": "SahIL workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ]
+}
